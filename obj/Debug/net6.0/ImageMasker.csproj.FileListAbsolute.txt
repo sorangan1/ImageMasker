@@ -1,0 +1,17 @@
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\ImageMasker.exe
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\ImageMasker.deps.json
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\ImageMasker.runtimeconfig.json
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\ImageMasker.dll
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\ImageMasker.pdb
+C:\Users\sorangan\Documents\Code\ImageMasker\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.csproj.AssemblyReference.cache
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.AssemblyInfoInputs.cache
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.AssemblyInfo.cs
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.csproj.CoreCompileInputs.cache
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMas.8514035A.Up2Date
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.dll
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\refint\ImageMasker.dll
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.pdb
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ImageMasker.genruntimeconfig.cache
+C:\Users\sorangan\Documents\Code\ImageMasker\obj\Debug\net6.0\ref\ImageMasker.dll
